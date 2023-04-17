@@ -1,0 +1,9 @@
+<xml>
+    <articles>
+        <artile>
+            <title>Breaking news: We are learning about RESTful API</title>
+            <body>>RESTful API is awesome!</body>
+            <author>by Dmitriy Babichenko</author>
+        </article>
+    </articles>
+</xml>

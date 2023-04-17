@@ -1,0 +1,7 @@
+{
+    "host" : "67.205.163.33",
+    "user" : "bankUser",
+    "password": "bankUser123",
+    "db": "bank",
+    "charset": "utf8mb4"
+}

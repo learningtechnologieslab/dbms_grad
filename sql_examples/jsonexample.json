@@ -1,0 +1,14 @@
+[
+    {
+        "movie_id" : 4,
+        "title" : "AFFAIR PREJUDICE",
+        "description" : "A Fanciful Documentary of a Frisbee And a Lumberjack who must Chase a Monkey in A Shark Tank",
+        "year" : 2006
+    },
+    {
+        "movie_id" : 12,
+        "title" : "ALASKA PHANTOM",
+        "description" : "A Fanciful Saga of a Hunter And a Pastry Chef who must Vanquish a Boy in Australia",
+        "year" : 2006
+    }
+]

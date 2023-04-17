@@ -1,0 +1,16 @@
+<xml>
+    <movies>
+        <movie>
+            <id>4</id>
+            <title>AFFAIR PREJUDICE</title>
+            <description>A Fanciful Documentary of a Frisbee And a Lumberjack who must Chase a Monkey in A Shark Tank</description>
+            <year>2006</year>
+        </movie>
+        <movie>
+            <id>12</id>
+            <title>ALASKA PHANTOM</title>
+            <description>A Fanciful Saga of a Hunter And a Pastry Chef who must Vanquish a Boy in Australia</description>
+            <year>2006</year>
+        </movie>
+    </movies>
+</xml>
